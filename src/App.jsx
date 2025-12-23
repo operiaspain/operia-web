@@ -338,7 +338,7 @@ function App() {
                 de ahorro.
               </p>
               <div className="contact-actions">
-                <a className="cta primary" href="mailto:hola@operia.com">
+                <a className="cta primary" href="mailto:operiaspain@hotmail.com">
                   Solicitar demo
                 </a>
                 <a className="cta ghost" href="tel:+34123456789">
