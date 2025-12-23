@@ -21,7 +21,7 @@
 .shell {
   max-width: 1180px;
   margin: 0 auto;
-  padding: 2.5rem 1.5rem 3.5rem;
+  padding: 1.4rem 1.5rem 3rem;
 }
 
 .top-bar {
@@ -144,7 +144,7 @@
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 2rem;
   align-items: center;
-  padding: 2rem 0 1rem;
+  padding: 1.1rem 0 0.6rem;
 }
 
 .hero-copy h2 {
@@ -203,7 +203,7 @@
 }
 
 .panel {
-  margin-top: 3rem;
+  margin-top: 2.2rem;
   padding: 1.4rem;
   border-radius: 18px;
   border: 1px solid var(--border);
